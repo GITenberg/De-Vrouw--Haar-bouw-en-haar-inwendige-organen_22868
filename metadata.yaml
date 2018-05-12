@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Aletta_Jacobs
     - http://www.alettajacobs.org/home.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22868#De-Vrouw--Haar-bouw-en-haar-inwendige-organen
 gutenberg_issued: '2007-10-03'
 gutenberg_type: Text
 identifiers:
